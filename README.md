@@ -14,3 +14,5 @@ https://github.com/anasseth/Ecommerce-Static-WebPages-With-ReactJS
 https://github.com/anasseth/Ecommerce-WebApp-With-ReactJS/tree/master/Project%20Snaps
 ### Phase 3 'Implementing-ReactHooks-Functionality'
 In Progress
+### Phase 4 'Implementing-Redux-Toolkit-Functionality'
+Not Completed
