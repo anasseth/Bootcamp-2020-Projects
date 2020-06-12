@@ -8,7 +8,9 @@ https://github/anasseth/Expense-Tracker-App-With-ReactJS.git
 Not Completed
 
 # Project No. 3 & 4
-## Phase 1 'Ecommerce-Store-UI-Prototype'
+### Phase 1 'Ecommerce-Store-Static-Website-With-ReactJS'
+https://github.com/anasseth/Ecommerce-Static-WebPages-With-ReactJS
+### Phase 2 'Ecommerce-Store-WebApp-UI-Prototype'
 https://github.com/anasseth/Ecommerce-WebApp-With-ReactJS/tree/master/Project%20Snaps
-## Phase 2 'Implementing-ReactHooks-Functionality'
+### Phase 3 'Implementing-ReactHooks-Functionality'
 In Progress
