@@ -5,7 +5,7 @@ Contain Code Related to the project completed in the Bootcamp 2020 held by PanaC
 
 github URL:
 
-https://github/anasseth/Expense-Tracker-App-With-ReactJS.git
+https://github/anasseth/Expense-Tracker-App-With-ReactJS
 
 surge URL:
 
